@@ -1,0 +1,98 @@
+commit c598ad4297bc7fa31173f09d7fbdff6cc7fba76a
+Author: Facundo Figueroa <facu.river100@gmail.com>
+Date:   Mon Aug 7 15:52:29 2023 -0300
+
+    Agregando 2 parrafos
+
+commit 6472cc76f6d89740eaac896a16a1eb45afad2b60
+Merge: 4b550b3 1ccf269
+Author: Facundo Figueroa <facu.river100@gmail.com>
+Date:   Mon Aug 7 15:50:24 2023 -0300
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 4b550b34375eab8bf7b34f7fe1d562fa25db36cb
+Author: Facundo Figueroa <facu.river100@gmail.com>
+Date:   Mon Aug 7 15:34:31 2023 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 1ccf269cadad6a4a231867e30bc5ce6522411aa9
+Author: Facundo Figueroa <facu.river100@gmail.com>
+Date:   Mon Aug 7 15:34:31 2023 -0300
+
+    Agregando las estaciones del año
+
+commit ba7edb32a515852447a978d89f688320fa6bb582
+Merge: ce533a2 59d9905
+Author: Facundo Figueroa <facu.river100@gmail.com>
+Date:   Wed Aug 2 15:01:25 2023 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 59d9905c44f7b516de4c963a9358402008a89354
+Author: Facundo Figueroa <facu.river100@gmail.com>
+Date:   Wed Aug 2 14:54:49 2023 -0300
+
+    Agregando index.js al index.html
+
+commit ce533a2a83f30956d8f164860a3a41357d95eb73
+Author: Facundo Figueroa <facu.river100@gmail.com>
+Date:   Wed Aug 2 14:52:59 2023 -0300
+
+    Agregando style.css al index.html
+
+commit 624ba2aeac5e881988e686a731a3fbf4320111c1
+Merge: b11cf78 10c037a
+Author: Facundo Figueroa <facu.river100@gmail.com>
+Date:   Wed Aug 2 14:42:19 2023 -0300
+
+    Merge branch 'js'
+
+commit 10c037a23075253c4a03ee7499c3889678790a67
+Author: Facundo Figueroa <facu.river100@gmail.com>
+Date:   Wed Aug 2 14:37:26 2023 -0300
+
+    Creando index.js
+
+commit b11cf78760331bbf81850d22457607c949a8f227
+Author: Facundo Figueroa <facu.river100@gmail.com>
+Date:   Wed Aug 2 14:27:17 2023 -0300
+
+    Creando style.css
+
+commit f62156a4743e6a620670b0dcdfb005efd7733647
+Author: Facundo Figueroa <facu.river100@gmail.com>
+Date:   Wed Aug 2 14:22:53 2023 -0300
+
+    Creando archivo index.html
+
+commit e9667603c6954bbc0fa33a6743c16d1f75993381
+Author: Facundo Figueroa <facu.river100@gmail.com>
+Date:   Wed Aug 2 14:06:22 2023 -0300
+
+    Ignorando archivos .exe
+
+commit f281e919845926dc77c5e5f451fe8223bda49809
+Author: d1namoo <140097429+d1namoo@users.noreply.github.com>
+Date:   Wed Aug 2 12:34:47 2023 -0300
+
+    Creando licensia del repositorio
+
+commit 655a28ca73ea365ea854053cc38e867fb7f3b21a
+Author: Facundo Figueroa <facu.river100@gmail.com>
+Date:   Wed Aug 2 12:28:30 2023 -0300
+
+    Agrendo mas contenido al README
+
+commit 0355bb1171d8f391b63d462aa87bcaf935623bce
+Author: Facundo Figueroa <facu.river100@gmail.com>
+Date:   Wed Aug 2 12:20:25 2023 -0300
+
+    Agregando contenido inicial al README
+
+commit d83c447630e3ef640ea756055c2678e44fb97e21
+Author: Facundo Figueroa <facu.river100@gmail.com>
+Date:   Wed Aug 2 12:15:37 2023 -0300
+
+    Primer commit
